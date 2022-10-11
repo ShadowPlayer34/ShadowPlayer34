@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrey-hudik-4a4a33231/">
@@ -21,13 +21,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:man_technologist: About Me :
+--- :man_technologist: About Me :
 I am a IOS Developer from Belarus.
-### :hammer_and_wrench: Languages and Tools :
+--- :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/swiftui.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadowPlayer34&theme=dark&background=000000)](https://git.io/streak-stats)
