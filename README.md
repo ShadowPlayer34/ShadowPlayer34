@@ -21,8 +21,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div>
-### :man_technologist: About Me :
+---
+ :man_technologist: About Me :
 I am a IOS Developer from Belarus.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -32,4 +32,4 @@ I am a IOS Developer from Belarus.
 </div>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadowPlayer34&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
