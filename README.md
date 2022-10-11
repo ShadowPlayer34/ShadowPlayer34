@@ -37,7 +37,7 @@ I am a IOS Developer from Belarus.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/swift.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/swiftui.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
 </div>
 
