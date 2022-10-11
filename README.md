@@ -30,7 +30,7 @@ I am a IOS Developer from Belarus.
 
 - :zap: In my free time, I play games and try to be better as Developer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
 
 ---
 
