@@ -28,16 +28,16 @@
 I am a IOS Developer from Belarus.
 - :telescope: I’m student and learning IOS Developing.
 
-- :zap: In my free time, I play games and try to be better in IOS Developing.
+- :zap: In my free time, I play games and try to be better as Developer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/swiftui.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
 </div>
 
