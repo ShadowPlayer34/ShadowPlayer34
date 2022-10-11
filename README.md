@@ -26,13 +26,11 @@
 
 ### :man_technologist: About Me :
 I am a IOS Developer from Belarus.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m student and learning IOS Developing.
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I play games and try to be better in IOS Developing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
 
 ---
 
