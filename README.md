@@ -47,5 +47,5 @@ I am a IOS Developer from Belarus.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShadowPlayer34&theme=tokyonight)](https://git.io/streak-stats)
 <!--  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowPlayer34&hide=javascript,css,scss,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowPlayer34&v=2&theme=onedark" width="470" height="200">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowPlayer)](https://github.com/anuraghazra/github-readme-stats)
 
