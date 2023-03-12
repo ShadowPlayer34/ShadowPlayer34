@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 I am a IOS Developer from Belarus.
-- :telescope: I’m student and learning IOS Developing.
+- :telescope: I’m student and learning iOS Developing.
 
 - :zap: In my free time, I play games and try to be better as Developer.
 
