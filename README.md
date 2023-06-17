@@ -25,8 +25,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a IOS Developer from Belarus.
-- :telescope: I’m student and learning iOS Developing.
+I am a IOS Developer.
+- :telescope: I’m student and working as iOS Developer.
 
 - :zap: In my free time, I play games and try to be better as Developer.
 
@@ -39,6 +39,9 @@ I am a IOS Developer from Belarus.
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/swift.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/swiftui.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
