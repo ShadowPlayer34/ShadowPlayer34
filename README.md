@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 - 🔭 I am an Senior iOS Engineer.
 
-- :zap: In my free time, I play games and try to be better as Developer.
+- :zap: In my free time, I play games and try to be better as Engineer.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-hudik-4a4a33231/)
 
